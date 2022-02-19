@@ -8,7 +8,7 @@ public class FetchTitleTest  extends BaseClass {
 	@Test
 	public void getTitle()
 	{
-	System.out.println(driver.getTitle());
+	
 	}
 
 }
